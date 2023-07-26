@@ -1,1 +1,3 @@
 # dsoft-sbms-3
+
+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
